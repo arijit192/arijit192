@@ -1,8 +1,8 @@
-<div style="height:100%;width:100%;background:#ffffff;border-radius:13px">
-	<h1 style="color:#F54748;text-align:center ">
+<div >
+	<h1>
 		Hello Stranger :grinning: !
 	</h1>
-	<h4 style="color:white">
-	I am
+	<h4>
+		I am a ordinary boy who loves to tinker with PC and Mobiles. Currently I am a MERN stack developer. Haven't finished my education till now.
 	</h4>
 </div>
