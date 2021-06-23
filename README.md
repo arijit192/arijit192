@@ -3,7 +3,7 @@
 		Hello Stranger :grinning: !
 	</h1>
 	<h3>
-		I am a ordinary boy who loves to tinker with PC and Mobiles. Currently I am a MERN stack developer. Haven't finished my education till now.
+		I am a ordinary boy who loves to tinker with PC and Mobiles. Currently I am a MERN stack developer. Haven't finished my education yet.
 	</h3>
 	<div>
 		<h4> • Operating System : Fedora <img src="https://raw.githubusercontent.com/arijit192/arijit192/main/assets/Fedora.png" height="15px" width="15px"/> and ArchLinux <img src="https://raw.githubusercontent.com/arijit192/arijit192/main/assets/archlinux.svg" height="15px" width="15px"/></h4>
