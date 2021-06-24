@@ -1,7 +1,7 @@
 <svg fill="none" viewBox="0 0 854 140" height="854" width="140" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Shadows+Into+Light&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&amp;family=Shadows+Into+Light&amp;display=swap');
       .container {
         background: black;
         height: 100%;
