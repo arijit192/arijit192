@@ -1,7 +1,35 @@
 <svg fill="none" viewBox="0 0 854 140" width="854" height="140" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <p>He4llo</p>
+      <style>
+      .container {
+        background: black;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .headline {
+        font-family: 'Dancing Script', cursive;
+        text-align: center;
+        color: #FF616D;
+        font-size: 5vw
+      }
+
+      .introduction {
+        font-family: 'Shadows Into Light', cursive;
+        color: white;
+        text-align: justify;
+        font-size: 2vw;
+        width: 90%
+      }
+    </style>
+    <div class="container">
+      <h1 class="headline">Hello Stranger ! </h1>
+      <h3 class="introduction">I am an ordinary boy who loves to tinker with PCs and Mobiles. Currently devoting all the time learning new things and building apps for mobile and web. Huge fan of open source.</h3>
+    </div>
     </div>
   </foreignObject>
 </svg>
