@@ -1,9 +1,8 @@
 <svg fill="none" viewBox="0 0 854 140" width="854" height="140" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
+      <![CDATA[<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Shadows+Into+Light&display=swap" rel="stylesheet"> ]]>
       <style>
-        <![CDATA[
-      @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Shadows+Into+Light&display=swap');
       .container {
         background: black;
         height: 100%;
@@ -27,7 +26,6 @@
         font-size: 2vw;
         width: 90%
       }
-      ]]>
     </style>
     <div class="container">
       <h1 class="headline">Hello Stranger ! </h1>
