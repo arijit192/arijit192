@@ -1,6 +1,4 @@
-<div>
-  <a href="https://raw.githubusercontent.com/arijit192/arijit192/main/assets/main.svg">
+<div style="background: black;height:100%;width:100%">
     <img src="container.svg" />
-  </a>
 </div>
 
