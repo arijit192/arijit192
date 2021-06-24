@@ -1,1 +1,4 @@
-<img src="assets/main.svg" />
+<div>
+  <img src="assets/main.svg" />
+</div>
+
